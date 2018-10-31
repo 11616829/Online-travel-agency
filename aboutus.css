@@ -1,0 +1,38 @@
+body
+{
+    background-color:rgba(135, 206, 250, 0.637);
+}
+.temp1
+{
+    width: 70%;
+    height: 30px;
+    background-color: lightskyblue;
+}
+.temp2
+{
+    width: 70%;
+    height: 30px;
+    background-color: lightskyblue;
+}
+.aboutus
+{
+    height: 950px;
+    width: 100%;
+    background: url("data/bgimg.jpg");
+}
+.weareplanning
+{
+    width: 70%;
+    height: 330px;
+    background-color: whitesmoke;
+}
+.nextpage
+{
+    background-color: whitesmoke;
+    height: 50px;
+    float: center;
+}
+.tabledata
+{
+    background-color: lightskyblue;
+}
